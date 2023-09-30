@@ -1,11 +1,11 @@
 <h1>Linux_Commands Part 1</h1>
 
 <h2>Description</h2>
-Below you see Command with destipoin and pic on how to use this Luinx commands.I
+This will be the first of many In section I will be show you common and useful Linux Commands that I think would help any beginner as well as anybody that needs a refresher. 
+I will explain the commands and how to use them.
 <br />
 
 <h2>Command-1</h2>
-
 - <b>"cd"</b> 
 - <b>"ls"</b>
 
